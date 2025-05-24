@@ -1,0 +1,54 @@
+# User-specific files
+.idea/                # JetBrains Rider (IDE) project settings
+.vscode/              # Visual Studio Code settings folder (if used)
+*.user                # User-specific files for Visual Studio
+*.suo                 # Solution user options file (Visual Studio)
+*.userosscache        # Visual Studio
+*.sln.docstates       # Visual Studio solution file cache
+
+# Build results
+[Dd]ebug/             # Debug build folder (and subfolders)
+[Dd]ebugPublic/       # Debug build folder (public release)
+[Dd]evelopment/       # Development build folder (if used)
+[Dd]ist/              # Distribution folder
+[Dd]ebug_*_*/         # Debug build folder in a subfolder (for multi-target projects)
+[Dd]ist_*_*/          # Distribution folder in a subfolder
+[Dd]ebug/             # Debug build folders (including nested ones)
+[Dd]eploy/            # Deployment folder
+[Dd]ocs/              # Documentation output
+
+# Build artifacts
+bin/
+obj/
+
+# User-specific Rider files
+.idea/
+
+# Windows Installer files
+*.cab
+*.msi
+*.msm
+*.msp
+
+# Windows Installer and Visual Studio generated files
+# Windows Installer files
+*.exe
+*.dll
+
+# Windows Installer files 
+*.pdb
+
+# Rider-specific cache and project files
+.idea/
+
+# User-specific Rider project settings
+*.ipr
+*.iws
+
+# JetBrains Rider .NET-specific cache
+.idea/.idea/
+
+# System-specific files
+Thumbs.db             # Windows image thumbnail cache
+Desktop.ini           # Windows folder configuration
+.DS_Store             # macOS folder settings file
